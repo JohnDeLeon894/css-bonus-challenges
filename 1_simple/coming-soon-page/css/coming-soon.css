@@ -1,0 +1,41 @@
+/*
+CSS for page under construction
+ */
+
+* {
+    font-family: Raleway, sans-serif;
+
+    color: #fff;
+
+    font-weight: lighter;
+}
+
+body {
+    background-image: url("../img/forest.jpg");
+    background-size: cover;
+}
+
+header {
+
+}
+
+main {
+    /* color for positioning purposes only
+    background-color: violet;
+    */
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    left: calc(38% + 1px);
+}
+
+.main-heading {
+    font-size: 3em;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
